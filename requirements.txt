@@ -1,2 +1,3 @@
 vk_captchasolver
 vk_api
+colorama
